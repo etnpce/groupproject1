@@ -16,14 +16,14 @@ void Jimmy(void){
 
 void Ethan(void){
   printf(
-"\
+"\n\
 *****Ethan Peace****\n\
 Sophomore\n\
 Combined Computer Science-Mathematics\n\
 \n\
 Likes Video games, Youtube, and Tech blogs\n\
 Military Child, Born in Britain, moved frequently.\
-"
+\n"
   );
 }
 
