@@ -19,7 +19,7 @@ void Ethan(void){
 "\
 *****Ethan Peace****\n\
 Sophomore? maybe junior\n\
-Combined Comp-Math\n\
+Combined Computer Science-Mathematics\n\
 \n\
 Likes Video games, Youtube, and Tech blogs\n\
 Military Child, Born in Britain, moved frequently.\
