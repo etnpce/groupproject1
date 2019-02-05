@@ -12,6 +12,7 @@ void Kody(void){
   printf("Junior");
   printf("Video Games, Hockey, Mountain biking, etc.");
   printf("Lewistown, MT");
+  printf("Nothing else interesting about me");
     
 }
 
