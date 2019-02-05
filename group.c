@@ -11,6 +11,7 @@ void Kody(void){
   printf("Kody Neill");
   printf("Junior");
   printf("Video Games, Hockey, Mountain biking, etc.");
+  printf("Lewistown, MT");
     
 }
 
