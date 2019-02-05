@@ -21,7 +21,7 @@ void Ethan(void){
 Sophomore? maybe junior\n\
 Combined Comp-Math\n\
 \n\
-Likes Video games, youtube, and reading Tech blogs\n\
+Likes Video games, Youtube, and Tech blogs\n\
 Military Child, Born in Britain, moved frequently.\
 "
   );
