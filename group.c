@@ -8,6 +8,7 @@ void Shelby(void){
   printf("Year in School: Sophomore");
   printf("Major: Computer Science");
   printf("Hobbies: Reading, Drawing, playing the flute");
+  printf("Where I grew up: Los Alamos, New Mexico...and many other places");
 
 }
 
