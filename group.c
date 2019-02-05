@@ -18,7 +18,7 @@ void Ethan(void){
   printf(
 "\
 *****Ethan Peace****\n\
-Sophomore? maybe junior\n\
+Sophomore\n\
 Combined Computer Science-Mathematics\n\
 \n\
 Likes Video games, Youtube, and Tech blogs\n\
