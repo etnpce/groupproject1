@@ -40,9 +40,8 @@ int main(void){
   printf("   Group Members\n");
   printf("Jimmy\nShelby\nKody\nEthan\nBranden\n");
   
-
-
-
+  
+  Ethan();
 
 
 
