@@ -4,6 +4,13 @@
 
 
 void Shelby(void){
+  printf("Name: Shelby Max");
+  printf("Year in School: Sophomore");
+  printf("Major: Computer Science");
+  printf("Hobbies: Reading, Drawing, playing the flute");
+  printf("Where I grew up: Los Alamos, New Mexico...and many other places");
+  printf("Other: I have two family dogs named Onyx and Copper");
+
 
 }
 
