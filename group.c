@@ -9,6 +9,7 @@ void Shelby(void){
 
 void Kody(void){
   printf("Kody Neill");
+  printf("Junior");
 }
 
 void Jimmy(void){
