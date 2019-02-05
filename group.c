@@ -7,6 +7,7 @@ void Shelby(void){
   printf("Name: Shelby Max");
   printf("Year in School: Sophomore");
   printf("Major: Computer Science");
+  printf("Hobbies: Reading, Drawing, playing the flute");
 
 }
 
