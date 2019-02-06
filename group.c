@@ -25,8 +25,10 @@ void Kody(void){
 
 void Jimmy(void){
 
-  printf("Jimmy Painter\n");
-  printf("Major: Computer Science\n");
+  printf("******************************************\n");
+  printf("              Jimmy Painter\n");
+  printf("          Major: Computer Science\n");
+  printf(" Hobbies: Hiking, Driving, Gaming, Coding\n");
 
 
 
@@ -55,8 +57,13 @@ int main(void){
 
   printf("********************\n");
   printf("   Group: Mangos\n");
-  printf("   Group Members\n");
-  printf("Jimmy\nShelby\nKody\nEthan\nBranden\n");
+  printf("   Group Members:\n");
+  printf("         Jimmy\n"
+         "         Shelby\n"
+         "         Kody\n"
+         "         Ethan\n"
+         "         Branden\n");
+  printf("********************\n");
   
   
   Ethan();
@@ -64,6 +71,8 @@ int main(void){
   Shelby();
   printf("\n");
   Kody();
+  printf("\n");
+  Jimmy();
 
 
 
