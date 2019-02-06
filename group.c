@@ -25,6 +25,11 @@ void Kody(void){
 
 void Jimmy(void){
 
+  printf("Jimmy Painter");
+
+
+
+
 }
 
 void Ethan(void){
