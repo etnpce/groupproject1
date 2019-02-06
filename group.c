@@ -25,8 +25,8 @@ void Kody(void){
 
 void Jimmy(void){
 
-  printf("Jimmy Painter");
-
+  printf("Jimmy Painter\n");
+  printf("Major: Computer Science\n");
 
 
 
