@@ -4,26 +4,33 @@
 
 
 void Shelby(void){
-  printf("Name: Shelby Max");
-  printf("Year in School: Sophomore");
-  printf("Major: Computer Science");
-  printf("Hobbies: Reading, Drawing, playing the flute");
-  printf("Where I grew up: Los Alamos, New Mexico...and many other places");
-  printf("Other: I have two family dogs named Onyx and Copper");
+  printf("Name: Shelby Max\n");
+  printf("Year in School: Sophomore\n");
+  printf("Major: Computer Science\n");
+  printf("Hobbies: Reading, Drawing, playing the flute\n");
+  printf("Where I grew up: Los Alamos, New Mexico...and many other places\n");
+  printf("Other: I have two family dogs named Onyx and Copper\n");
 
 
 }
 
 void Kody(void){
-  printf("Kody Neill");
-  printf("Junior");
-  printf("Video Games, Hockey, Mountain biking, etc.");
-  printf("Lewistown, MT");
-  printf("Nothing else interesting about me");
+  printf("Kody Neill\n");
+  printf("Junior\n");
+  printf("Video Games, Hockey, Mountain biking, etc.\n");
+  printf("Lewistown, MT\n");
+  printf("Nothing else interesting about me\n");
     
 }
 
 void Jimmy(void){
+
+  printf("******************************************\n");
+  printf("              Jimmy Painter\n");
+  printf("          Major: Computer Science\n");
+  printf(" Hobbies: Hiking, Driving, Gaming, Coding\n");
+
+
 
 }
 
@@ -50,11 +57,22 @@ int main(void){
 
   printf("********************\n");
   printf("   Group: Mangos\n");
-  printf("   Group Members\n");
-  printf("Jimmy\nShelby\nKody\nEthan\nBranden\n");
+  printf("   Group Members:\n");
+  printf("         Jimmy\n"
+         "         Shelby\n"
+         "         Kody\n"
+         "         Ethan\n"
+         "         Branden\n");
+  printf("********************\n");
   
   
   Ethan();
+  printf("\n");
+  Shelby();
+  printf("\n");
+  Kody();
+  printf("\n");
+  Jimmy();
 
 
 
